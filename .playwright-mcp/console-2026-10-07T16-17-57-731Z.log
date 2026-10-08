@@ -1,0 +1,12 @@
+[    1504ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBkCNmEsn5SCG4BrEAKGb7m2WAak2lp-Qg:329
+[    2413ms] [ERROR] Framing 'https://upspreprod.smartkargo.com/' violates the following Content Security Policy directive: "frame-ancestors 'none'". The request has been blocked.
+ @ :0
+[    3008ms] Error: reCAPTCHA placeholder element must be an element or id
+    at https://www.gstatic.com/recaptcha/releases/guXhH0v-XMzwgr6KUGswGxeS/recaptcha__en.js:220:420
+    at onloadCallback (https://www.aircargo.ups.com/TheUpsTheme/js/main.js:359:16)
+[   13058ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBkCNmEsn5SCG4BrEAKGb7m2WAak2lp-Qg:329
+[   13282ms] [ERROR] Framing 'https://upspreprod.smartkargo.com/' violates the following Content Security Policy directive: "frame-ancestors 'none'". The request has been blocked.
+ @ :0
+[   14569ms] Error: reCAPTCHA placeholder element must be an element or id
+    at https://www.gstatic.com/recaptcha/releases/guXhH0v-XMzwgr6KUGswGxeS/recaptcha__en.js:220:420
+    at onloadCallback (https://www.aircargo.ups.com/TheUpsTheme/js/main.js:359:16)

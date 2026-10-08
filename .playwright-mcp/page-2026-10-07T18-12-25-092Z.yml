@@ -1,0 +1,332 @@
+- generic [active] [ref=f2e1]:
+  - link "skip to main content" [ref=f2e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f2e3]:
+    - navigation [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - link "Air Cargo" [ref=f2e6] [cursor=pointer]:
+          - /url: /
+          - article [ref=f2e8]:
+            - figure [ref=f2e9]:
+              - img "UPS Air Cargo" [ref=f2e10]
+        - list [ref=f2e13]:
+          - listitem [ref=f2e14]:
+            - link "Request Access" [ref=f2e15] [cursor=pointer]:
+              - /url: /en-us/registration
+          - listitem [ref=f2e17]:
+            - link " Airports" [ref=f2e18] [cursor=pointer]:
+              - /url: /en-us/airports
+              - generic [ref=f2e19]: 
+              - generic [ref=f2e20]: Airports
+          - listitem [ref=f2e21]:
+            - link " Air Waybill" [ref=f2e22] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f2e23]: 
+              - generic [ref=f2e24]: Air Waybill
+              - text: 
+          - listitem [ref=f2e25]:
+            - link " UPS Global" [ref=f2e26] [cursor=pointer]:
+              - /url: https://www.ups.com/us/en/global.page
+              - generic [ref=f2e27]: 
+              - generic [ref=f2e28]: UPS Global
+        - button "Toggle navigation" [ref=f2e29] [cursor=pointer]
+    - navigation:
+      - generic:      
+  - generic [ref=f2e33]:
+    - generic [ref=f2e37]:
+      - navigation "breadcrumb" [ref=f2e43]:
+        - list [ref=f2e44]:
+          - listitem [ref=f2e45]:
+            - link "Home" [ref=f2e46] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f2e47]:
+            - text: /
+            - link "Tracking" [ref=f2e48] [cursor=pointer]:
+              - /url: /en-US/Tracking
+      - generic [ref=f2e54]:
+        - generic [ref=f2e56]:
+          - paragraph [ref=f2e57]:
+            - strong [ref=f2e58]: Enter your Air Waybill number below and select Track.
+          - generic [ref=f2e61]:
+            - textbox "Awb-Prefix" [ref=f2e62]: "406"
+            - textbox "Enter up to 10 Air Waybill numbers separated by comma." [ref=f2e63]:
+              - /placeholder: Enter up to 10 AWB Numbers separated by comma.
+            - button "Track" [ref=f2e65] [cursor=pointer]
+          - paragraph [ref=f2e66]: To track multiple shipments, you can enter up to 10 Air Waybill numbers, each separated by a comma.
+        - paragraph [ref=f2e70]:
+          - strong [ref=f2e71]:
+            - generic [ref=f2e72]: NOTICE
+          - text: ": UPS authorizes you to use UPS tracking systems solely to track shipments tendered by or for you to UPS for arrival to destination and for no other purpose. Any other use of UPS tracking systems and information is strictly prohibited."
+    - generic: 
+    - generic [ref=f2e74]:
+      - text:    
+      - tabpanel [ref=f2e76]:
+        - generic [ref=f2e77]:
+          - list [ref=f2e81]:
+            - listitem [ref=f2e82]:
+              - link "Graphics" [ref=f2e83] [cursor=pointer]:
+                - /url: "#graphics"
+            - listitem [ref=f2e84]:
+              - link "Tabular" [ref=f2e85] [cursor=pointer]:
+                - /url: "#tabular"
+          - generic [ref=f2e87]:
+            - generic [ref=f2e88]:
+              - generic [ref=f2e90]:
+                - generic [ref=f2e91]:
+                  - paragraph [ref=f2e92]:
+                    - text: "Air Waybill number:"
+                    - strong [ref=f2e93]: 406-44869075
+                  - paragraph [ref=f2e94]:
+                    - text: "Origin:"
+                    - strong [ref=f2e95]: ATL
+                    - text: "Destination:"
+                    - strong [ref=f2e96]: NGO
+                - paragraph [ref=f2e98]: "Received: 3 Pieces"
+              - generic [ref=f2e100]:
+                - strong [ref=f2e101]: "Most Recent Activity:"
+                - text: Released at NGO ( 3 Pieces )
+            - list [ref=f2e107]:
+              - listitem [ref=f2e108]:
+                - list [ref=f2e109]:
+                  - listitem [ref=f2e110]:
+                    - link [ref=f2e111] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e113]:
+                        - generic [ref=f2e114]:
+                          - emphasis [ref=f2e116]: 
+                          - generic [ref=f2e117]:
+                            - strong [ref=f2e118]: Received
+                            - strong [ref=f2e119]: ATL
+                        - paragraph [ref=f2e121]:
+                          - text: 09/16/2026
+                          - strong [ref=f2e122]: 3 Pieces
+                - list [ref=f2e123]:
+                  - listitem [ref=f2e124]:
+                    - link [ref=f2e125] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e127]:
+                        - generic [ref=f2e128]:
+                          - emphasis [ref=f2e130]: 􏿿
+                          - generic [ref=f2e131]:
+                            - strong [ref=f2e132]: Departed
+                            - text: TRUCK
+                            - strong [ref=f2e133]: ATL
+                            - text: "- SDF"
+                        - paragraph [ref=f2e135]:
+                          - text: 09/16/2026 16:38
+                          - strong [ref=f2e136]: 3 Pieces
+                    - list [ref=f2e137]:
+                      - listitem [ref=f2e138]:
+                        - link [ref=f2e139] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - generic [ref=f2e141]:
+                            - generic [ref=f2e142]:
+                              - emphasis [ref=f2e144]: 􏿿
+                              - generic [ref=f2e145]:
+                                - strong [ref=f2e146]: Arrived
+                                - text: TRUCK ATL -
+                                - strong [ref=f2e147]: SDF
+                            - paragraph [ref=f2e149]:
+                              - text: 09/17/2026 07:47
+                              - strong [ref=f2e150]: 3 Pieces
+                - list [ref=f2e151]:
+                  - listitem [ref=f2e152]:
+                    - link [ref=f2e153] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e155]:
+                        - generic [ref=f2e156]:
+                          - emphasis [ref=f2e158]: 
+                          - generic [ref=f2e159]:
+                            - strong [ref=f2e160]: Departed
+                            - text: UPS072
+                            - strong [ref=f2e161]: SDF
+                            - text: "- ANC"
+                        - paragraph [ref=f2e163]:
+                          - text: 09/17/2026 13:16
+                          - strong [ref=f2e164]: 3 Pieces
+                    - list [ref=f2e165]:
+                      - listitem [ref=f2e166]:
+                        - link [ref=f2e167] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - generic [ref=f2e169]:
+                            - generic [ref=f2e170]:
+                              - emphasis [ref=f2e172]: 
+                              - generic [ref=f2e173]:
+                                - strong [ref=f2e174]: Arrived
+                                - text: UPS072 SDF -
+                                - strong [ref=f2e175]: ANC
+                            - paragraph [ref=f2e177]:
+                              - text: 09/17/2026 16:01
+                              - strong [ref=f2e178]: 3 Pieces
+                - list [ref=f2e179]:
+                  - listitem [ref=f2e180]:
+                    - link [ref=f2e181] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e183]:
+                        - generic [ref=f2e184]:
+                          - emphasis [ref=f2e186]: 
+                          - generic [ref=f2e187]:
+                            - strong [ref=f2e188]: Departed
+                            - text: UPS104
+                            - strong [ref=f2e189]: ANC
+                            - text: "- KIX"
+                        - paragraph [ref=f2e191]:
+                          - text: 09/19/2026 10:02
+                          - strong [ref=f2e192]: 3 Pieces
+                    - list [ref=f2e193]:
+                      - listitem [ref=f2e194]:
+                        - link [ref=f2e195] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - generic [ref=f2e197]:
+                            - generic [ref=f2e198]:
+                              - emphasis [ref=f2e200]: 
+                              - generic [ref=f2e201]:
+                                - strong [ref=f2e202]: Arrived
+                                - text: UPS104 ANC -
+                                - strong [ref=f2e203]: KIX
+                            - paragraph [ref=f2e205]:
+                              - text: 09/20/2026 11:41
+                              - strong [ref=f2e206]: 3 Pieces
+                - list [ref=f2e207]:
+                  - listitem [ref=f2e208]:
+                    - link [ref=f2e209] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e211]:
+                        - generic [ref=f2e212]:
+                          - emphasis [ref=f2e214]: 􏿿
+                          - generic [ref=f2e215]:
+                            - strong [ref=f2e216]: Departed
+                            - text: TRUCK
+                            - strong [ref=f2e217]: KIX
+                            - text: "- NGO"
+                        - paragraph [ref=f2e219]:
+                          - text: 09/20/2026 23:00
+                          - strong [ref=f2e220]: 3 Pieces
+                    - list [ref=f2e221]:
+                      - listitem [ref=f2e222]:
+                        - link [ref=f2e223] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                          - generic [ref=f2e225]:
+                            - generic [ref=f2e226]:
+                              - emphasis [ref=f2e228]: 􏿿
+                              - generic [ref=f2e229]:
+                                - strong [ref=f2e230]: Arrived
+                                - text: TRUCK KIX -
+                                - strong [ref=f2e231]: NGO
+                            - paragraph [ref=f2e233]:
+                              - text: 09/21/2026 12:00
+                              - strong [ref=f2e234]: 3 Pieces
+                - list [ref=f2e235]:
+                  - listitem [ref=f2e236]:
+                    - link [ref=f2e237] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                      - generic [ref=f2e239]:
+                        - generic [ref=f2e240]:
+                          - emphasis [ref=f2e242]: 
+                          - generic [ref=f2e243]:
+                            - strong [ref=f2e244]: Released
+                            - strong [ref=f2e245]: NGO
+                        - paragraph [ref=f2e247]:
+                          - text: 09/21/2026 09:14
+                          - strong [ref=f2e248]: 3 Pieces
+  - contentinfo [ref=f2e249]:
+    - generic [ref=f2e253]:
+      - generic [ref=f2e259]:
+        - generic [ref=f2e262]:
+          - article [ref=f2e263]:
+            - figure [ref=f2e264]:
+              - img "UPS Air Cargo Logo" [ref=f2e265]
+          - generic [ref=f2e269]:
+            - paragraph [ref=f2e270]: Our comprehensive hub-and-spoke network provides you with access to key transportation centers across the U.S. and beyond.
+            - list [ref=f2e271]:
+              - listitem [ref=f2e272]:
+                - link "Facebook" [ref=f2e273] [cursor=pointer]:
+                  - /url: https://www.facebook.com/ups
+                  - generic [ref=f2e274]:
+                    - generic [ref=f2e275]: 
+                    - generic [ref=f2e276]: 
+              - listitem [ref=f2e277]:
+                - link "twitter" [ref=f2e278] [cursor=pointer]:
+                  - /url: https://twitter.com/UPS
+                  - generic [ref=f2e279]:
+                    - generic [ref=f2e280]: 
+                    - generic [ref=f2e281]: 
+              - listitem [ref=f2e282]:
+                - link "LinkedIn" [ref=f2e283] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ups
+                  - generic [ref=f2e284]: 
+              - listitem [ref=f2e285]:
+                - link "youtube" [ref=f2e286] [cursor=pointer]:
+                  - /url: https://www.youtube.com/ups
+                  - generic [ref=f2e287]: 
+        - generic [ref=f2e290]:
+          - paragraph
+          - paragraph [ref=f2e292]: Quick Link
+          - list [ref=f2e293]:
+            - listitem [ref=f2e294]:
+              - link "Home" [ref=f2e295] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f2e296]:
+              - link "Service Guide" [ref=f2e297] [cursor=pointer]:
+                - /url: /en-us/service-guide
+            - listitem [ref=f2e298]:
+              - link "Services" [ref=f2e299] [cursor=pointer]:
+                - /url: /en-us/services
+            - listitem [ref=f2e300]:
+              - link "Tracking" [ref=f2e301] [cursor=pointer]:
+                - /url: /en-us/tracking
+            - listitem [ref=f2e302]:
+              - link "Contacts" [ref=f2e303] [cursor=pointer]:
+                - /url: /en-us/us-contacts
+          - list [ref=f2e304]:
+            - listitem [ref=f2e305]:
+              - link "Rates" [ref=f2e306] [cursor=pointer]:
+                - /url: /en-us/rates
+            - listitem [ref=f2e307]:
+              - link "Airports" [ref=f2e308] [cursor=pointer]:
+                - /url: /en-us/airports
+            - listitem [ref=f2e309]:
+              - link "Air Waybill" [ref=f2e310] [cursor=pointer]:
+                - /url: /en-us/completing-air-waybill
+            - listitem [ref=f2e311]:
+              - link "Customer Service" [ref=f2e312] [cursor=pointer]:
+                - /url: /en-us/global-capacity-management-center
+            - listitem [ref=f2e313]:
+              - link "Site Guide" [ref=f2e314] [cursor=pointer]:
+                - /url: /en-us/site-guide
+        - generic [ref=f2e318]:
+          - paragraph [ref=f2e320]: Support
+          - list [ref=f2e321]:
+            - listitem [ref=f2e322]:
+              - link "UPS Global" [ref=f2e323] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/global.page
+            - listitem [ref=f2e324]:
+              - link "UPS Corporate" [ref=f2e325] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/about/worldwide/headquarters.page
+            - listitem [ref=f2e326]:
+              - link "Conditions of Contract" [ref=f2e327] [cursor=pointer]:
+                - /url: /en-us/completing-air-waybill#frontback
+            - listitem [ref=f2e328]:
+              - link "Privacy Notice" [ref=f2e329] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/help-center/legal-terms-conditions/privacy-notice.page
+            - listitem [ref=f2e330]:
+              - link "Your California Privacy Rights" [ref=f2e331] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/help-center/legal-terms-conditions/california-privacy.page?
+        - generic [ref=f2e336]:
+          - paragraph [ref=f2e338]: Contact Us
+          - list [ref=f2e339]:
+            - listitem [ref=f2e340]:
+              - generic [ref=f2e341]: 
+              - generic [ref=f2e343]:
+                - paragraph [ref=f2e344]:
+                  - strong [ref=f2e345]: United States
+                - generic [ref=f2e346]:
+                  - text: "Toll Free: 800.535.2345"
+                  - paragraph
+            - listitem [ref=f2e347]:
+              - generic [ref=f2e348]: 
+              - paragraph [ref=f2e351]: UPS Air Cargo Global Operations Center 825 Lotus Ave Louisville, KY 40213
+      - generic [ref=f2e357]:
+        - paragraph [ref=f2e361]: V4.5X.COM.02
+        - paragraph [ref=f2e365]: Copyright © 1994-2021 United Parcel Service of America, Inc. All rights reserved.
+  - text: 

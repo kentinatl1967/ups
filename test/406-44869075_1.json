@@ -1,0 +1,86 @@
+[
+  {
+    "status": "Released",
+    "flight": "UPS7900A",
+    "pieces": 3,
+    "eventDateTime": "09/21/2026 09:14"
+  },
+  {
+    "status": "Arrived",
+    "flight": "TRUCK",
+    "pieces": 3,
+    "eventDateTime": "09/21/2026 12:00"
+  },
+  {
+    "status": "Departed",
+    "flight": "TRUCK",
+    "pieces": 3,
+    "eventDateTime": "09/20/2026 23:00"
+  },
+  {
+    "status": "Arrived",
+    "flight": "UPS104",
+    "pieces": 3,
+    "eventDateTime": "09/20/2026 11:41"
+  },
+  {
+    "status": "Departed",
+    "flight": "UPS104",
+    "pieces": 3,
+    "eventDateTime": "09/19/2026 10:02"
+  },
+  {
+    "status": "Arrived",
+    "flight": "UPS072",
+    "pieces": 3,
+    "eventDateTime": "09/17/2026 16:01"
+  },
+  {
+    "status": "Departed",
+    "flight": "UPS072",
+    "pieces": 3,
+    "eventDateTime": "09/17/2026 13:16"
+  },
+  {
+    "status": "Arrived",
+    "flight": "TRUCK",
+    "pieces": 3,
+    "eventDateTime": "09/17/2026 07:47"
+  },
+  {
+    "status": "Departed",
+    "flight": "TRUCK",
+    "pieces": 3,
+    "eventDateTime": "09/16/2026 16:38"
+  },
+  {
+    "status": "Received",
+    "flight": "TRUCK",
+    "pieces": 3,
+    "eventDateTime": "09/16/2026 12:23"
+  },
+  {
+    "status": "Booked *",
+    "flight": "UPS7900A",
+    "pieces": 3,
+    "eventDateTime": "09/08/2026 12:41"
+  },
+  {
+    "status": "Booked *",
+    "flight": "UPS104",
+    "pieces": 3,
+    "eventDateTime": "09/08/2026 12:41"
+  },
+  {
+    "status": "Booked *",
+    "flight": "UPS064",
+    "pieces": 3,
+    "eventDateTime": "09/08/2026 12:41"
+  },
+  {
+    "status": "Booked *",
+    "flight": "UPS9873T",
+    "pieces": 3,
+    "eventDateTime": "09/08/2026 12:41"
+  }
+]

@@ -1,0 +1,191 @@
+- generic [active] [ref=f4e1]:
+  - link "skip to main content" [ref=f4e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f4e3]:
+    - navigation [ref=f4e4]:
+      - generic [ref=f4e5]:
+        - link "Air Cargo" [ref=f4e6] [cursor=pointer]:
+          - /url: /
+          - article [ref=f4e8]:
+            - figure [ref=f4e9]:
+              - img "UPS Air Cargo" [ref=f4e10]
+        - list [ref=f4e13]:
+          - listitem [ref=f4e14]:
+            - link "Request Access" [ref=f4e15] [cursor=pointer]:
+              - /url: /en-us/registration
+          - listitem [ref=f4e17]:
+            - link " Airports" [ref=f4e18] [cursor=pointer]:
+              - /url: /en-us/airports
+              - generic [ref=f4e19]: 
+              - generic [ref=f4e20]: Airports
+          - listitem [ref=f4e21]:
+            - link " Air Waybill" [ref=f4e22] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f4e23]: 
+              - generic [ref=f4e24]: Air Waybill
+              - text: 
+          - listitem [ref=f4e25]:
+            - link " UPS Global" [ref=f4e26] [cursor=pointer]:
+              - /url: https://www.ups.com/us/en/global.page
+              - generic [ref=f4e27]: 
+              - generic [ref=f4e28]: UPS Global
+    - navigation [ref=f4e29]:
+      - generic [ref=f4e31]:
+        - list [ref=f4e32]:
+          - listitem [ref=f4e33]:
+            - link "Service Guide" [ref=f4e34] [cursor=pointer]:
+              - /url: /en-us/service-guide
+              - text: Service Guide 
+          - listitem [ref=f4e35]:
+            - link "Services" [ref=f4e36] [cursor=pointer]:
+              - /url: /en-us/services
+              - text: Services 
+          - listitem [ref=f4e37]:
+            - link "Tracking" [ref=f4e38] [cursor=pointer]:
+              - /url: /en-us/tracking
+          - listitem [ref=f4e39]:
+            - link "Rates" [ref=f4e40] [cursor=pointer]:
+              - /url: /en-us/rates
+              - text: Rates 
+          - listitem [ref=f4e41]:
+            - link "Contact Us" [ref=f4e42] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Contact Us 
+        - list [ref=f4e43]:
+          - listitem [ref=f4e44]:
+            - link "Book Shipments" [ref=f4e45] [cursor=pointer]:
+              - /url: https://ups.smartkargo.com/LoginFrame.aspx
+          - listitem [ref=f4e47]:
+            - link " Customer Service" [ref=f4e48] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f4e49]: 
+              - generic [ref=f4e50]: Customer Service
+              - text: 
+  - generic [ref=f4e51]:
+    - generic [ref=f4e55]:
+      - navigation "breadcrumb" [ref=f4e61]:
+        - list [ref=f4e62]:
+          - listitem [ref=f4e63]:
+            - link "Home" [ref=f4e64] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f4e65]:
+            - text: /
+            - link "Tracking" [ref=f4e66] [cursor=pointer]:
+              - /url: /en-US/Tracking
+      - generic [ref=f4e72]:
+        - generic [ref=f4e74]:
+          - paragraph [ref=f4e75]:
+            - strong [ref=f4e76]: Enter your Air Waybill number below and select Track.
+          - generic [ref=f4e79]:
+            - textbox "Awb-Prefix" [ref=f4e80]: "406"
+            - textbox "Enter up to 10 Air Waybill numbers separated by comma." [ref=f4e81]:
+              - /placeholder: Enter up to 10 AWB Numbers separated by comma.
+            - button "Track" [ref=f4e83] [cursor=pointer]
+          - paragraph [ref=f4e84]: To track multiple shipments, you can enter up to 10 Air Waybill numbers, each separated by a comma.
+        - paragraph [ref=f4e88]:
+          - strong [ref=f4e89]:
+            - generic [ref=f4e90]: NOTICE
+          - text: ": UPS authorizes you to use UPS tracking systems solely to track shipments tendered by or for you to UPS for arrival to destination and for no other purpose. Any other use of UPS tracking systems and information is strictly prohibited."
+    - generic: 
+    - generic [ref=f4e91]:    
+  - contentinfo [ref=f4e94]:
+    - generic [ref=f4e98]:
+      - generic [ref=f4e104]:
+        - generic [ref=f4e107]:
+          - article [ref=f4e108]:
+            - figure [ref=f4e109]:
+              - img "UPS Air Cargo Logo" [ref=f4e110]
+          - generic [ref=f4e114]:
+            - paragraph [ref=f4e115]: Our comprehensive hub-and-spoke network provides you with access to key transportation centers across the U.S. and beyond.
+            - list [ref=f4e116]:
+              - listitem [ref=f4e117]:
+                - link "Facebook" [ref=f4e118] [cursor=pointer]:
+                  - /url: https://www.facebook.com/ups
+                  - generic [ref=f4e119]:
+                    - generic [ref=f4e120]: 
+                    - generic: 
+              - listitem [ref=f4e121]:
+                - link "twitter" [ref=f4e122] [cursor=pointer]:
+                  - /url: https://twitter.com/UPS
+                  - generic [ref=f4e123]:
+                    - generic [ref=f4e124]: 
+                    - generic: 
+              - listitem [ref=f4e125]:
+                - link "LinkedIn" [ref=f4e126] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ups
+                  - generic [ref=f4e127]: 
+              - listitem [ref=f4e128]:
+                - link "youtube" [ref=f4e129] [cursor=pointer]:
+                  - /url: https://www.youtube.com/ups
+                  - generic [ref=f4e130]: 
+        - generic [ref=f4e133]:
+          - paragraph
+          - paragraph [ref=f4e135]: Quick Link
+          - list [ref=f4e136]:
+            - listitem [ref=f4e137]:
+              - link "Home" [ref=f4e138] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f4e139]:
+              - link "Service Guide" [ref=f4e140] [cursor=pointer]:
+                - /url: /en-us/service-guide
+            - listitem [ref=f4e141]:
+              - link "Services" [ref=f4e142] [cursor=pointer]:
+                - /url: /en-us/services
+            - listitem [ref=f4e143]:
+              - link "Tracking" [ref=f4e144] [cursor=pointer]:
+                - /url: /en-us/tracking
+            - listitem [ref=f4e145]:
+              - link "Contacts" [ref=f4e146] [cursor=pointer]:
+                - /url: /en-us/us-contacts
+          - list [ref=f4e147]:
+            - listitem [ref=f4e148]:
+              - link "Rates" [ref=f4e149] [cursor=pointer]:
+                - /url: /en-us/rates
+            - listitem [ref=f4e150]:
+              - link "Airports" [ref=f4e151] [cursor=pointer]:
+                - /url: /en-us/airports
+            - listitem [ref=f4e152]:
+              - link "Air Waybill" [ref=f4e153] [cursor=pointer]:
+                - /url: /en-us/completing-air-waybill
+            - listitem [ref=f4e154]:
+              - link "Customer Service" [ref=f4e155] [cursor=pointer]:
+                - /url: /en-us/global-capacity-management-center
+            - listitem [ref=f4e156]:
+              - link "Site Guide" [ref=f4e157] [cursor=pointer]:
+                - /url: /en-us/site-guide
+        - generic [ref=f4e161]:
+          - paragraph [ref=f4e163]: Support
+          - list [ref=f4e164]:
+            - listitem [ref=f4e165]:
+              - link "UPS Global" [ref=f4e166] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/global.page
+            - listitem [ref=f4e167]:
+              - link "UPS Corporate" [ref=f4e168] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/about/worldwide/headquarters.page
+            - listitem [ref=f4e169]:
+              - link "Conditions of Contract" [ref=f4e170] [cursor=pointer]:
+                - /url: /en-us/completing-air-waybill#frontback
+            - listitem [ref=f4e171]:
+              - link "Privacy Notice" [ref=f4e172] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/help-center/legal-terms-conditions/privacy-notice.page
+            - listitem [ref=f4e173]:
+              - link "Your California Privacy Rights" [ref=f4e174] [cursor=pointer]:
+                - /url: https://www.ups.com/us/en/help-center/legal-terms-conditions/california-privacy.page?
+        - generic [ref=f4e179]:
+          - paragraph [ref=f4e181]: Contact Us
+          - list [ref=f4e182]:
+            - listitem [ref=f4e183]:
+              - generic [ref=f4e184]: 
+              - generic [ref=f4e186]:
+                - paragraph [ref=f4e187]:
+                  - strong [ref=f4e188]: United States
+                - generic [ref=f4e189]:
+                  - text: "Toll Free: 800.535.2345"
+                  - paragraph
+            - listitem [ref=f4e190]:
+              - generic [ref=f4e191]: 
+              - paragraph [ref=f4e194]: UPS Air Cargo Global Operations Center 825 Lotus Ave Louisville, KY 40213
+      - generic [ref=f4e200]:
+        - paragraph [ref=f4e204]: V4.5X.COM.02
+        - paragraph [ref=f4e208]: Copyright © 1994-2021 United Parcel Service of America, Inc. All rights reserved.
+  - text: 
